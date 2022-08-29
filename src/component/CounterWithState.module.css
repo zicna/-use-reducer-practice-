@@ -1,0 +1,24 @@
+.container{
+    margin: 20px;
+}
+
+.heading{
+    font-style: normal;
+    font-size: larger;
+    color: blue;
+}
+
+.heading button{
+    padding: 5px;
+}
+
+.increment{
+    background-color: lightgreen;
+}
+
+.decrement{
+    background-color: lightcoral;
+}
+.span{
+    padding: 8px 4px;
+}
